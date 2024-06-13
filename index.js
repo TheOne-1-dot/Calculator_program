@@ -15,4 +15,5 @@ function calculate(){
     catch(error){
         display.value = "Do pull ups";
     }
-}
+} 
+
